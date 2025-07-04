@@ -1,59 +1,18 @@
-# 📝 ToDoApp
+# ✅ ToDoApp
 
-Basit ve şık bir yapılacaklar listesi uygulaması. React ve Vite ile geliştirilmiştir.
+Basit, hızlı ve kullanıcı dostu bir yapılacaklar listesi uygulaması. React ve Vite kullanılarak geliştirilmiştir.
 
 ## 🚀 Özellikler
 
-- ✅ Yeni görev ekleme
-- 🗑️ Görev silme
+- 🆕 Yeni görev ekleme
+- ❌ Görev silme
 - ✔️ Görevleri tamamlandı olarak işaretleme
-- 🔍 Tüm, aktif ve tamamlanmış görevleri filtreleme
+- 🔍 Görevleri filtreleme (Tüm / Aktif / Tamamlanmış)
 - 🧹 Tamamlanan görevleri temizleme
-- 🎨 Modern ve responsive arayüz
+- 📱 Responsive modern tasarım
 
-## 📦 Kurulum
+## ⚙️ Kurulum ve Çalıştırma
 
-1. Depoyu klonlayın.
-2. Bağımlılıkları yükleyin:
-
-   ```sh
-   npm install
-   ```
-
-3. Geliştirme sunucusunu başlatın:
-
-   ```sh
-   npm run dev
-   ```
-
-4. Tarayıcınızda [http://localhost:5173](http://localhost:5173) adresini açın.
-
-## 🛠️ Kullanılan Teknolojiler
-
-- [React](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [ESLint](https://eslint.org/)
-
-## 📁 Proje Yapısı
-
-```
-ToDoApp/
-├── src/
-│   ├── components/
-│   │   └── ToDoApp.jsx
-│   │   └── ToDoApp.css
-│   ├── App.jsx
-│   ├── App.css
-│   ├── main.jsx
-│   └── index.css
-├── public/
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
-
-## 👤 Yazar
-
-- [Dmitry Sharabin](https://d12n.me/)
-- Bu proje [TodoMVC](http://todomvc.com) örneğinden esinlenmiştir.
+1. Proje klasörüne terminal ile girin:
+   ```bash
+   cd ToDoApp
